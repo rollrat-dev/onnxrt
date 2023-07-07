@@ -13,4 +13,4 @@ edition = "2021"
 
 [dependencies]
 once_cell = "1.18.0"
-onnxrt-sys = { git = "https://github.com/rollrat-dev/onnxrt-sys", tag = "0.17.0-aarch64" }
+onnxrt-sys = { git = "https://github.com/rollrat-dev/onnxrt-sys", tag = "0.17.0-aarch64-1" }
